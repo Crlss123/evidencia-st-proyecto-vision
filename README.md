@@ -8,7 +8,7 @@ En este repositorio se encuentra la implementación de una función que realiza 
 
 Además, se incluye la implementación de una función de padding, que se aplica después de la convolución. Esta función agrega un borde de ceros alrededor de la matriz original antes de realizar la convolución, lo que permite mantener las dimensiones de la matriz resultante y evitar la pérdida de información en los bordes de la imagen o matriz.
 
-Estas funciones han sido diseñadas con el propósito de aplicar filtros a imágenes. El proceso comienza con la conversión de la imagen a una matriz utilizando la librería OpenCV (CV2). Una vez que la imagen ha sido transformada en una matriz numérica, el programa puede aplicar la convolución y el padding de manera eficiente sobre los datos.
+Estas funciones han sido diseñadas con el propósito de aplicar filtros a imágenes a color. El proceso comienza con la conversión de la imagen a una matriz utilizando la librería OpenCV (CV2). Una vez que la imagen ha sido transformada en una matriz numérica, el programa puede aplicar la convolución y el padding de manera eficiente sobre los datos.
 
 Después de aplicar el filtro a la matriz, la matriz resultante se convierte nuevamente a una imagen que puede ser visualizada, permitiendo observar los efectos del filtro aplicado en la imagen original.
 
