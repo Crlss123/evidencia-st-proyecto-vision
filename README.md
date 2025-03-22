@@ -25,6 +25,8 @@ Después de aplicar el filtro a la matriz, la matriz resultante se convierte nue
 
 El filtro a aplicar es un filtro de nitidez que busca alzar los contrastes en la imagen. El padding aplicado sera de 0s como se menciono anteriormente.
 
+### Antes
 ![Antes](img/papel.jpg)
 
+### Despues
 ![Despues](img/output.png)
