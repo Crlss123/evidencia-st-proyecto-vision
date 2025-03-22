@@ -19,7 +19,7 @@ Después de aplicar el filtro a la matriz, la matriz resultante se convierte nue
 - Libreria Matplotlib
 - Libreria OpenCv2
 
-\*\*Se recomienda utilizar un entorno virtual para instalar estas librerias pero tambien se pueden instalar directamente en la computadora donde se ejecute el programa
+** Se recomienda utilizar un entorno virtual para instalar estas librerias pero tambien se pueden instalar directamente en la computadora donde se ejecute el programa
 
 ## Pruebas
 
